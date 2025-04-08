@@ -1,4 +1,4 @@
 discord.py
 pymongo
 keyboard
-python-doten
+python-dotenv
