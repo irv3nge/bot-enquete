@@ -28,7 +28,7 @@ OPCOES = [
     "Nunca, ainda não comecei a me engajar com networking"
 ]
 TEMPO_EXPIRACAO = 86400  # 1 dia
-CANAIS_ALVO = [1333583081738604647]  # IDs dos canais onde a enquete será enviada
+CANAIS_ALVO = [1250513563500548167]  # IDs dos canais onde a enquete será enviada
 
 # SETUP DO BOT E MONGO
 intents = discord.Intents.default()
